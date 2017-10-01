@@ -16,8 +16,7 @@ overwrite)
 ###### It is possible to build all modules at once.
 
 
-3. You should add module name to 'PRODUCT_PACKAGES' in 'build\target\product\
-core.mk' as following case.
+3. You should add module name to 'PRODUCT_PACKAGES' in 'build\target\product\core.mk' as following case.
 
 case 1) e2fsprog : should add 'e2fsck' to PRODUCT_PACKAGES
 case 2) libexifa : should add 'libexifa' to PRODUCT_PACKAGES
