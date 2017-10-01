@@ -23,7 +23,7 @@ overwrite)
 - `libjpega`: should add `libjpega` to `PRODUCT_PACKAGES`
 - `KeyUtils`: should add `libkeyutils` to `PRODUCT_PACKAGES`
 - `libasound`: should add `libasound` to `PRODUCT_PACKAGES`
--`audio\alsaplugin`: should add `libasound_module_pcm_bcmfilter` to `PRODUCT_PACKAGES`
+- `audio\alsaplugin`: should add `libasound_module_pcm_bcmfilter` to `PRODUCT_PACKAGES`
 
 ex.) `build\target\product\core.mk` - add all module name for all follow cases at once
 
